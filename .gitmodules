@@ -1,0 +1,15 @@
+[submodule "units"]
+	path = units
+	url = https://github.com/SDI-19-Oct-2020-Project-1-Group-6/GDMilitary-Units-API.git
+[submodule "submit"]
+	path = submit
+	url = https://github.com/SDI-19-Oct-2020-Project-1-Group-6/GDMilitary-SubmitReview.git
+	branch = api_only
+[submodule "search"]
+	path = search
+	url = https://github.com/SDI-19-Oct-2020-Project-1-Group-6/GDMilitary-Search.git
+	branch = api_only
+[submodule "display"]
+	path = display
+	url = https://github.com/SDI-19-Oct-2020-Project-1-Group-6/GDMilitary-ReviewDisplays.git
+	branch = api_only
